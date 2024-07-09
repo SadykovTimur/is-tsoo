@@ -1,0 +1,4 @@
+name: 'Выполнение авторизации через API'
+cmd: 'pytest --alluredir={allure_reports_path} tests/api/test_check_api_auth.py'
+steps:
+  - 'Выполнение авторизации через API'
